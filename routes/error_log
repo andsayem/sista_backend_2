@@ -1,0 +1,4 @@
+[09-Mar-2021 19:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/abdulmaz/public_html/sista/routes/api.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abdulmaz/public_html/sista/routes/api.php on line 18
